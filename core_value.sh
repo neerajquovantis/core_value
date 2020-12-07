@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # font color : green 
 color='\e[0;32m' 
  
